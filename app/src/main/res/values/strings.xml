@@ -9,4 +9,5 @@
     <string name="BMICaluBUttonText">BMI Calculator</string>
     <string name="AboutUsButtonText">About Us?</string>
     <string name="RateUsEditText">Rate Us!!!</string>
+    <string name="BmiText">Bmi Calculator</string>
 </resources>

@@ -13,11 +13,9 @@
         android:textIsSelectable="false"
         android:textStyle="bold|normal"/>
 
-    <RecyclerView
+    <ExpandableListView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/expandableListView"
-        android:layout_gravity="center_horizontal"
-        android:layout_weight="0.22" />
+        android:id="@+id/expandableListView" />
 
 </LinearLayout>
