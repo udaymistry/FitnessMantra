@@ -1,0 +1,83 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity"
+    android:id="@+id/text"
+    android:background="#ffffff">
+
+    <TextView android:text="@string/WelcomeText" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textColor="#0b0a0b"
+        android:id="@+id/textView"
+        android:focusable="true"
+        android:textStyle="bold|normal" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ExceriseButtonText"
+        android:id="@+id/button"
+        android:layout_below="@+id/button2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:clickable="true"
+        android:enabled="true"
+        android:textStyle="bold|normal" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/BMICaluBUttonText"
+        android:id="@+id/button2"
+        android:layout_marginTop="29dp"
+            android:layout_centerHorizontal="true"
+        android:clickable="true"
+        android:textStyle="bold|normal" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/DietButtonText"
+        android:id="@+id/button3"
+        android:clickable="true"
+        android:enabled="true"
+        android:textStyle="bold|normal"
+        android:layout_centerVertical="true"
+        android:layout_alignEnd="@+id/button" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/AboutUsButtonText"
+        android:id="@+id/button4"
+        android:layout_marginTop="47dp"
+        android:layout_below="@+id/button3"
+        android:layout_alignEnd="@+id/button"
+        android:clickable="true"
+        android:enabled="true"
+        android:textStyle="bold|normal" />
+
+    <RatingBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/ratingBar"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="37dp"
+        android:clickable="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText"
+        android:text="@string/RateUsEditText"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:inputType="text"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

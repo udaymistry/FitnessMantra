@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    android:orientation="vertical"
+    >
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText2"
+        android:layout_gravity="center_horizontal"
+        android:text="BMI Calculator"
+        android:textStyle="bold|normal" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText3"
+        android:layout_weight="0.06"
+        android:text="Enter Height :"
+        android:textStyle="bold|normal"
+        android:inputType="number|numberDecimal"
+        android:editable="true"
+        android:enabled="true"
+        android:hint="Enter Height In Inches&apos;s"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText4"
+        android:text="Enter Weight :"
+        android:inputType="number|numberDecimal"
+        android:editable="true"
+        android:enabled="true"
+        android:hint="Enter Weight In Kg&apos;s"
+        android:layout_weight="0.05" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Calculate!"
+        android:id="@+id/button5"
+        android:layout_gravity="center_horizontal"
+        android:clickable="true"
+        android:enabled="true"
+        android:textStyle="bold|normal"
+        android:visibility="visible" />
+</LinearLayout>

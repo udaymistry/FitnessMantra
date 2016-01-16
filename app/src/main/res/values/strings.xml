@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FitnessMantra</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="WelcomeText">Welcome To The World Of Fitness</string>
+    <string name="ExceriseButtonText">Excercise</string>
+    <string name="DietButtonText">Diet</string>
+    <string name="BMICaluBUttonText">BMI Calculator</string>
+    <string name="AboutUsButtonText">About Us?</string>
+    <string name="RateUsEditText">Rate Us!!!</string>
+</resources>
