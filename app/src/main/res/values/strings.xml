@@ -10,4 +10,19 @@
     <string name="AboutUsButtonText">About Us?</string>
     <string name="RateUsEditText">Rate Us!!!</string>
     <string name="BmiText">Bmi Calculator</string>
+    <string name="extpandableEditText">Exercise!</string>
+    <string name="hieghtEditText">Enter Height In Inches\'s</string>
+    <string name="weightEditText">Enter Weight In Kg\'s</string>
+    <string name="buttonEditString">Calculate!</string>
+    <string name="abtusTextDisp">This Was Just For Project Purpose!!!!MadeBy Uday,Vijay,Sanket,Viraj</string>
+    <string name="abtus_tetView">About Us :-</string>
+    <string name="calculatebutton">Calculate</string>
+    <string name="title_text">Bmi Calculator</string>
+    <string name="button_submit">Calculate</string>
+    <string name="height_feet">feet</string>
+    <string name="height_inch">inch</string>
+    <string name="weight_text">Enter Weight in Kg</string>
+    <string name="Bmi_cal">Bmi:</string>
+    <string name="excercise7min_buttton">7-Minitue Excercise</string>
+    <string name="rateus_TextView">Rate US!</string>
 </resources>
