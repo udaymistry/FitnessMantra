@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void onClick(View view){
 
-        Intent o=new Intent(this,BmiCal.class);
+        Intent o=new Intent(this,Bmi_calcy.class);
         startActivity(o);
 
     }
