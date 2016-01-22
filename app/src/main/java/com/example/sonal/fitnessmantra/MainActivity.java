@@ -6,9 +6,10 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.app.Activity;
 
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends Activity {
 
 
     @Override
@@ -21,7 +22,14 @@ public class MainActivity extends AppCompatActivity {
 
         Intent i=new Intent(this,Bmi_calcy.class);
         startActivity(i);
+
             }
+
+    public void onClickExerciseButton(View v)
+    {
+        Intent x=new Intent(MainActivity.this,Exercise.class);
+        startActivity(x);
+    }
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
