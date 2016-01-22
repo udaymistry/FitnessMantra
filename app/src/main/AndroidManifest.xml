@@ -20,6 +20,10 @@
             android:name=".Bmi_calcy"
             android:label="@string/title_activity_bmi_calcy" >
         </activity>
+        <activity
+            android:name=".Exercise"
+            android:label="@string/title_activity_exercise" >
+        </activity>
     </application>
 
 </manifest>

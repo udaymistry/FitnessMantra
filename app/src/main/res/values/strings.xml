@@ -26,4 +26,5 @@
     <string name="excercise7min_buttton">7-Minitue Excercise</string>
     <string name="rateus_TextView">Rate US!</string>
     <string name="title_activity_bmi_calcy">Bmi_calcy</string>
+    <string name="title_activity_exercise">exercise</string>
 </resources>

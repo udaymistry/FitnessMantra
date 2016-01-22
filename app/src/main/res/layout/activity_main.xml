@@ -25,8 +25,7 @@
         android:layout_marginTop="30dp"
         android:clickable="true"
         android:enabled="true"
-        android:textStyle="bold|normal"
-        android:onClick="onClick"/>
+        android:textStyle="bold|normal"/>
 
     <Button
         android:layout_width="wrap_content"
