@@ -27,4 +27,5 @@
     <string name="rateus_TextView">Rate US!</string>
     <string name="title_activity_bmi_calcy">Bmi_calcy</string>
     <string name="title_activity_exercise">exercise</string>
+    <string name="title_activity_seven_minitue_excercise">seven_minitue_excercise</string>
 </resources>
