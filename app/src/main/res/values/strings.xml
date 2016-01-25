@@ -28,4 +28,5 @@
     <string name="title_activity_bmi_calcy">Bmi_calcy</string>
     <string name="title_activity_exercise">exercise</string>
     <string name="title_activity_seven_minitue_excercise">seven_minitue_excercise</string>
+    <string name="title_activity_exercise_view">exercise_view</string>
 </resources>

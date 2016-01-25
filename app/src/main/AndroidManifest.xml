@@ -32,6 +32,10 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.example.sonal.fitnessmantra.MainActivity" />
         </activity>
+        <activity
+            android:name=".exercise_view"
+            android:label="@string/title_activity_exercise_view" >
+        </activity>
     </application>
 
 </manifest>
