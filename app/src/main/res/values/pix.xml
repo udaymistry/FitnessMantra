@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bdomina_pix">
+
+            <item>R.drawable.sit_up_1</item>
+            <item>R.drawable.coocoons_1</item>
+            <item>R.drawable.spider_ crawl_1</item>
+            <item>R.drawable.decline_crunch_1</item>
+            <item>R.drawable.frog_sit_ups_1</item>
+            <item>R.drawable.russian_twist_1</item>
+            <item>R.drawable.hanging_lef_rise_1</item>
+            <item>R.drawable.hanging_pike_1</item>
+
+    </string-array>
+
+        <string-array name="back_pix">
+
+                <item>R.drawable.bent_over_barbell_row_1</item>
+                <item>R.drawable.hyperextensions_1</item>
+                <item>R.drawable.pullups_1</item>
+                <item>R.drawable.barbell_deadlift_1</item>
+                <item>R.drawable.one_arm_kettle_bar_row_1</item>
+                <item>R.drawable.weighted_pull_ups_1</item>
+                <item>R.drawable.atlas_stone_1</item>
+                <item>R.drawable.mixed_grip_chin_1</item>
+
+        </string-array>
+
+        <string-array name="biceps_pix">
+
+                <item>R.drawable.barbell_curl_1</item>
+                <item>R.drawable.incline_inner_biceps_curl_1</item>
+                <item>R.drawable.standing_concentration_curl_1</item>
+                <item>R.drawable.grip_concentration_barbell_curve_1</item>
+                <item>R.drawable.overhead_cable_curl_1</item>
+                <item>R.drawable.standing_one_arm_cable_curl_1</item>
+
+        </string-array>
+
+        <string-array name="calves_pix">
+                <item>R.drawable.calf_press_1</item>
+                <item>R.drawable.smith_machine_calf_raise_1</item>
+                <item>R.drawable.standing_calf_raise_1</item>
+                <item>R.drawable.donkey_calf_raise_1</item>
+                <item>R.drawable.standing_dumbbell_calf_raise_1</item>
+        </string-array>
+
+        <string-array name="chest_pix">
+
+            <item>R.drawable.decline_dumbbell_flyes_1</item>
+            <item>R.drawable.dumbbell_bench_press_1</item>
+            <item>R.drawable.low_cable_crossover_1</item>
+            <item>R.drawable.pushups_1</item>
+            <item>R.drawable.bodyweight_flyes_1</item>
+            <item>R.drawable.dips_chest_version_1</item>
+            <item>R.drawable.neck_press_1</item>
+            <item>R.drawable.plyo_kettlebell_pushups_1</item>
+        </string-array>
+
+        <string-array name="quads_pix">
+
+            <item>R.drawable.barbell_squats_1</item>
+            <item>R.drawable.barbell_walking_lunge_1</item>
+            <item>R.drawable.goblet_squat_1</item>
+            <item>R.drawable.trap_bar_deadlift_1</item>
+            <item>R.drawable.hang_clean_1</item>
+            <item>R.drawable.narrow_stance_squats_1</item>
+            <item>R.drawable.rope_jumping_1</item>
+            <item>R.drawable.box_squat_with_bands_1</item>
+            <item>R.drawable.kettlebell_pistol_squat_1</item>
+            <item>R.drawable.one_leg_barbell_squat_1</item>
+
+        </string-array>
+
+        <string-array name="shoulders_pix">
+
+            <item>R.drawable.car_drivers_1</item>
+            <item>R.drawable.front_two_dumbbell_raise_1</item>
+            <item>R.drawable.one_arm_dumbbell_press_1</item>
+            <item>R.drawable.power_partials_1</item>
+            <item>R.drawable.kettlebell_thruster_1</item>
+            <item>R.drawable.lying_read_delt_raise_1</item>
+            <item>R.drawable.seated_barbell_military_press_1</item>
+            <item>R.drawable.handstand_push_ups_1</item>
+
+        </string-array>
+
+        <string-array name="triceps_pix">
+            <item>R.drawable.decline_ez_bar_triceps_extension_1</item>
+            <item>R.drawable.dips_triceps_version_1</item>
+            <item>R.drawable.triceps_overhead_extension_with_rope_1</item>
+            <item>R.drawable.body_up_1</item>
+            <item>R.drawable.incline_barbell_triceps_extension_1</item>
+            <item>R.drawable.weighted_bench_dip_1</item>
+
+        </string-array>
+</resources>
