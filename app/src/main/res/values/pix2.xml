@@ -1,97 +1,98 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="bdominia_pix2">
-        <item>R.drawable.sit_up_2</item>
-        <item>R.drawable.coocoons_2</item>
-        <item>R.drawable.spider_ crawl_2</item>
-        <item>R.drawable.decline_crunch_2</item>
-        <item>R.drawable.frog_sit_ups_2</item>
-        <item>R.drawable.russian_twist_2</item>
-        <item>R.drawable.hanging_lef_rise_2</item>
-        <item>R.drawable.haning)pike_2</item>
 
-    </string-array>
-
-    <string-array name="back_pix2">
-        <item>R.drawable.bent_over_barbell_row_2</item>
-        <item>R.drawable.hyperextensions_2</item>
-        <item>R.drawable.pullups_2</item>
-        <item>R.drawable.barbell_deadlift_2</item>
-        <item>R.drawable.one_arm_kettle_bar_row_2</item>
-        <item>R.drawable.weighted_pull_ups_2</item>
-        <item>R.drawable.atlas_stone_2</item>
-        <item>R.drawable.mixed_grip_chin_2</item>
-
-    </string-array>
+    <array name="abdominia_pix2">
+        <item>@drawable/sit_up_2</item>
+        <item>@drawable/cocoons_2</item>
+        <item>@drawable/spider_crawl_2</item>
+        <item>@drawable/decline_crunch_2</item>
+        <item>@drawable/frog_sit_ups_2</item>
+        <item>@drawable/russian_twist_2</item>
+        <item>@drawable/hanging_lef_rise_2</item>
+        <item>@drawable/hanging_pike_2</item>
+</array>
 
 
-    <string-array name="biceps_pix2">
 
-        <item>R.drawable.barbell_curl_2</item>
-        <item>R.drawable.incline_inner_biceps_curl_2</item>
-        <item>R.drawable.standing_concentration_curl_2</item>
-        <item>R.drawable.grip_concentration_barbell_curve_2</item>
-        <item>R.drawable.overhead_cable_curl_2</item>
-        <item>R.drawable.standing_one_arm_cable_curl_2</item>
+    <array name="back_pix2">
 
-    </string-array>
+        <item>@drawable/bent_over_barbell_row_2</item>
+        <item>@drawable/hyperextensions_2</item>
+        <item>@drawable/pullups_2</item>
+        <item>@drawable/barbell_deadlift_2</item>
+        <item>@drawable/one_arm_kettle_bar_row_2</item>
+        <item>@drawable/weighted_pull_ups_2</item>
+        <item>@drawable/atlas_stone_2</item>
+        <item>@drawable/mixed_grip_chin_2</item>
 
-    <string-array name="calves_pix2">
-        <item>R.drawable.calf_press_2</item>
-        <item>R.drawable.smith_machine_calf_raise_2</item>
-        <item>R.drawable.standing_calf_raise_2</item>
-        <item>R.drawable.donkey_calf_raise_2</item>
-        <item>R.drawable.standing_dumbbell_calf_raise_2</item>
-    </string-array>
+    </array>
 
-    <string-array name="chest_pix2">
+    <array name="biceps_pix2">
 
-        <item>R.drawable.decline_dumbbell_flyes_2</item>
-        <item>R.drawable.dumbbell_bench_press_2</item>
-        <item>R.drawable.low_cable_crossover_2</item>
-        <item>R.drawable.pushups_2</item>
-        <item>R.drawable.bodyweight_flyes_2</item>
-        <item>R.drawable.dips_chest_version_2</item>
-        <item>R.drawable.neck_press_2</item>
-        <item>R.drawable.plyo_kettlebell_pushups_2</item>
-    </string-array>
+        <item>@drawable/barbell_curl_2</item>
+        <item>@drawable/incline_inner_biceps_curl_2</item>
+        <item>@drawable/standing_concentration_curl_2</item>
+        <item>@drawable/grip_concentration_barbell_curve_2</item>
+        <item>@drawable/overhead_cable_curl_2</item>
+        <item>@drawable/standing_one_arm_cable_curl_2</item>
 
-    <string-array name="quads_pix2">
+    </array>
 
-        <item>R.drawable.barbell_squats_2</item>
-        <item>R.drawable.barbell_walking_lunge_2</item>
-        <item>R.drawable.goblet_squat_2</item>
-        <item>R.drawable.trap_bar_deadlift_2</item>
-        <item>R.drawable.hang_clean_2</item>
-        <item>R.drawable.narrow_stance_squats_2</item>
-        <item>R.drawable.rope_jumping_2</item>
-        <item>R.drawable.box_squat_with_bands_2</item>
-        <item>R.drawable.kettlebell_pistol_squat_2</item>
-        <item>R.drawable.one_leg_barbell_squat_2</item>
+    <array name="calves_pix2">
+        <item>@drawable/calf_press_2</item>
+        <item>@drawable/smith_machine_calf_raise_2</item>
+        <item>@drawable/standing_calf_raise_2</item>
+        <item>@drawable/donkey_calf_raise_2</item>
+        <item>@drawable/standing_dumbbell_calf_raise_2</item>
+    </array>
 
-    </string-array>
+    <array name="chest_pix2">
 
-    <string-array name="shoulders_pix2">
+        <item>@drawable/decline_dumbbell_flyes_2</item>
+        <item>@drawable/dumbbell_bench_press_2</item>
+        <item>@drawable/low_cable_crossover_2</item>
+        <item>@drawable/pushups_2</item>
+        <item>@drawable/bodyweight_flyes_2</item>
+        <item>@drawable/dips_chest_version_2</item>
+        <item>@drawable/neck_press_2</item>
+        <item>@drawable/plyo_kettlebell_pushups_2</item>
+    </array>
 
-        <item>R.drawable.car_drivers_2</item>
-        <item>R.drawable.front_two_dumbbell_raise_2</item>
-        <item>R.drawable.one_arm_dumbbell_press_2</item>
-        <item>R.drawable.power_partials_2</item>
-        <item>R.drawable.kettlebell_thruster_2</item>
-        <item>R.drawable.lying_read_delt_raise_2</item>
-        <item>R.drawable.seated_barbell_military_press_2</item>
-        <item>R.drawable.handstand_push_ups_2</item>
+    <array name="quads_pix2">
 
-    </string-array>
+        <item>@drawable/barbell_squats_2</item>
+        <item>@drawable/barbell_walking_lunge_2</item>
+        <item>@drawable/goblet_squat_2</item>
+        <item>@drawable/trap_bar_deadlift_2</item>
+        <item>@drawable/hang_clean_2</item>
+        <item>@drawable/narrow_stance_squats_2</item>
+        <item>@drawable/rope_jumping_2</item>
+        <item>@drawable/box_squat_with_bands_2</item>
+        <item>@drawable/kettlebell_pistol_squat_2</item>
+        <item>@drawable/one_leg_barbell_squat_2</item>
 
-    <string-array name="triceps_pix2">
-        <item>R.drawable.decline_ez_bar_triceps_extension_2</item>
-        <item>R.drawable.dips_triceps_version_2</item>
-        <item>R.drawable.triceps_overhead_extension_with_rope_2</item>
-        <item>R.drawable.body_up_2</item>
-        <item>R.drawable.incline_barbell_triceps_extension_2</item>
-        <item>R.drawable.weighted_bench_dip_2</item>
+    </array>
 
-    </string-array>
+    <array name="shoulders_pix2">
 
+        <item>@drawable/car_drivers_2</item>
+        <item>@drawable/front_two_dumbbell_raise_2</item>
+        <item>@drawable/one_arm_dumbbell_press_2</item>
+        <item>@drawable/power_partials_2</item>
+        <item>@drawable/kettlebell_thruster_2</item>
+        <item>@drawable/lying_read_delt_raise_2</item>
+        <item>@drawable/seated_barbell_military_press_2</item>
+        <item>@drawable/handstand_push_ups_2</item>
+
+    </array>
+
+    <array name="triceps_pix2">
+        <item>@drawable/decline_ez_bar_triceps_extension_2</item>
+        <item>@drawable/dips_triceps_version_2</item>
+        <item>@drawable/triceps_overhead_extension_with_rope_2</item>
+        <item>@drawable/body_up_2</item>
+        <item>@drawable/incline_barbell_triceps_extension_2</item>
+        <item>@drawable/weighted_bench_dip_2</item>
+
+    </array>
 </resources>

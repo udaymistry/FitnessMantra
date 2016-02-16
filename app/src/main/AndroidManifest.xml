@@ -18,10 +18,10 @@
         </activity>
         <activity
             android:name=".Bmi_calcy"
-            android:label="@string/title_activity_bmi_calcy"></activity>
+            android:label="@string/title_activity_bmi_calcy" />
         <activity
             android:name=".Exercise"
-            android:label="@string/title_activity_exercise"></activity>
+            android:label="@string/title_activity_exercise" />
         <activity
             android:name=".seven_minitue_excercise"
             android:label="@string/title_activity_seven_minitue_excercise"
@@ -32,7 +32,9 @@
         </activity>
         <activity
             android:name=".exercise_view"
-            android:label="@string/title_activity_exercise_view"></activity>
+            android:label="@string/title_activity_exercise_view" />
+        <activity android:name=".seven_excr_View" />
+        <activity android:name=".ideal_weight"></activity>
     </application>
 
 </manifest>

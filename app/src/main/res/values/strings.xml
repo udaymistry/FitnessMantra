@@ -31,4 +31,6 @@
     <string name="title_activity_exercise_view">exercise_view</string>
     <string name="title_activity_about_us">About_us</string>
     <string name="about_us_res">This App Was Made For Project Purpose Only Made By Uday,Viraj,Vijay,Sanket</string>
+    <string name="diet_button">Diet</string>
+    <string name="title_activity_custom__list_view">Custom_ListView</string>
 </resources>

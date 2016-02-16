@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+        <string-array name="titles">
+
+            <item>Jumping Jacks</item>
+            <item>Wall Sit</item>
+            <item>Push Up</item>
+            <item>Abdominal Crunch</item>
+            <item>Step-Up onto Chair</item>
+            <item>Squat</item>
+            <item>Triceps dip on Chair</item>
+            <item>Plank</item>
+            <item>High Knees Running in place</item>
+            <item >Lunge</item>
+            <item>Push-up and Rotation</item>
+            <item>Side Plank</item>
+        </string-array>
+
+
+
  <string-array name="abd_exe">
 
     <item> <b>3\'4 Sit Ups Consists of The Following Steps</b>
