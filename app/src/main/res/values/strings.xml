@@ -14,8 +14,6 @@
     <string name="hieghtEditText">Enter Height In Inches\'s</string>
     <string name="weightEditText">Enter Weight In Kg\'s</string>
     <string name="buttonEditString">Calculate!</string>
-    <string name="abtusTextDisp">This Was Just For Project Purpose!!!!MadeBy Uday,Vijay,Sanket,Viraj</string>
-    <string name="abtus_tetView">About Us :-</string>
     <string name="calculatebutton">Calculate</string>
     <string name="title_text">Bmi Calculator</string>
     <string name="button_submit">Calculate</string>
@@ -24,9 +22,25 @@
     <string name="weight_text">Enter Weight in Kg</string>
     <string name="Bmi_cal">Bmi:</string>
     <string name="excercise7min_buttton">7-Minitue Excercise</string>
-    <string name="rateus_TextView">Rate US!</string>
     <string name="title_activity_bmi_calcy">Bmi_calcy</string>
     <string name="title_activity_exercise">exercise</string>
     <string name="title_activity_seven_minitue_excercise">seven_minitue_excercise</string>
     <string name="title_activity_exercise_view">exercise_view</string>
+    <string name="diet_button">Diet</string>
+    <string name="title_activity_custom__list_view">Custom_ListView</string>
+    <string name="title_activity_diet">diet</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
 </resources>
